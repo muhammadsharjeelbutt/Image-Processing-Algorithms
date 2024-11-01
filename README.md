@@ -3,10 +3,6 @@ Image processing algorithms+visualizations [Python]
 
 Collection of some techniques in Image processing done in course work for practice and better understanding. Some files may have more than one algorithm. These files are here so you can use them freely (edit however you like). All files were made using Google Colab.
 
-コースで行われる画像処理のいくつかのテクニックのコレクションは、練習とより良い理解のために実装しました。 一部のファイルには複数のアルゴリズムが含まれている場合があります。 これらのファイルはここにあるので、自由に使用できます。（好きなように編集してください）
-すべてのファイルはGoogleColabを使用して作成されました。
-
-
 - multiple_algos [template matching (cross correlation, sum of squared distance, normalized cross correlation, hough transform, co-occurence matrix GLCM (contrast, dissimilarity, inverse difference moment, angular second moment, energy, entropy), otsu thresholding ]
 - histogram_oriented_gradient (HOG)
 - difference_of_gaussian (DOG)
